@@ -339,6 +339,7 @@ else
 LOCAL_SHARED_LIBRARIES := \
 	liblog \
 	libcutils \
+	libprocessgroup \
 	libtinyalsa \
 	libaudioroute \
 	libdl \
